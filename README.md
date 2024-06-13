@@ -1,7 +1,7 @@
 ### buenas vindas🐁
 
--meu nome é tenorio, mas pode me chamar de rato cego
--meu apelido é moedas diga o que quiser
+-meu nome é rodney, mas pode me chamar de tenorio
+-meu apelido é moedas, mas diga o que quiser
 
 -estou estudando na alura 
 
