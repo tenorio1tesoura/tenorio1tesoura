@@ -1,16 +1,13 @@
-## Hi there 👋
+### buenas vindas🐁
 
-<!--
-**tenorio1tesoura/tenorio1tesoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-meu nome é tenorio, mas pode me chamar de rato cego
+-meu apelido é moedas diga o que quiser
 
-Here are some ideas to get you started:
+-estou estudando na alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-desenvolvendo em java scrip☠️
+
+
+![](https://media1.tenor.com/m/tsRXFm-gSm4AAAAC/blind-mice-3blind-mice.gif)
+
+
